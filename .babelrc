@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
+//preset-env  => permite trabajar con emma6
+//preset-react  => permite trabajar con react
